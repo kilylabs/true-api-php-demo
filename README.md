@@ -5,10 +5,10 @@
 ## Общий алгоритм для интеграции
 
 1. Получить УКЭП (Усиленная квалифицированная электронная подпись) ((заказать можно здесь)[https://sberbank-bs.ru/markirovka]) ~ 3000руб.
-2. Установить КриптоПРО 5.0 для Linux. Для этого нужно скачать сам дистрибутив (https://cryptopro.ru/products/csp/downloads) и купить лицензию ((заказать можно здесь)[https://www.cryptopro.ru/order/?online=true]) ~3000 руб.
-3. Установить расширение браузера (CryptoPro Extension)[https://chrome.google.com/webstore/detail/cryptopro-extension-for-c/iifchhfnnmpdbibifmljnfjhpififfog?hl=ru]
+2. Установить КриптоПРО 5.0 для Linux. Для этого нужно скачать сам дистрибутив (https://cryptopro.ru/products/csp/downloads) и купить лицензию ([заказать можно здесь](https://www.cryptopro.ru/order/?online=true)) ~3000 руб.
+3. Установить расширение браузера [CryptoPro Extension](https://chrome.google.com/webstore/detail/cryptopro-extension-for-c/iifchhfnnmpdbibifmljnfjhpififfog?hl=ru)
 4. Скомпилировать расширение libphpcades, применим патч для PHP 7
-5. Зарегистрироваться в системе Честный Знак (https://xn--80ajghhoc2aj1c8b.xn--p1ai/)
+5. Зарегистрироваться в системе [Честный Знак](https://xn--80ajghhoc2aj1c8b.xn--p1ai/)
 6. Использовать пример кода из файла demo.php этого репозитория
 7. ...
 8. Profit!!!
